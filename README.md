@@ -1,7 +1,8 @@
 # Codewars Solutions
+
 This repo contains my solutions to Codewars kata problems, as well as some leetcode problems from other sites.
 
-![alt tag](#)
+![Codewars banner](../Codewars%20Solutions/public/codewars-banner.png)
 
 ## Languages
 
