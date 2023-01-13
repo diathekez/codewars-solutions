@@ -11,6 +11,8 @@
 // Source:
 // https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/javascript
 
+// Loop solution
+
 function accum(s) {
   const result = [];
   const lowerStr = s.toLowerCase();
